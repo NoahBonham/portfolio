@@ -1,0 +1,46 @@
+.top {
+    background-color: black;
+    width: 1550px;
+    height: 150px;
+    margin-top: -50px;
+    margin-left: -100px;
+    border:1px solid white;
+
+}
+.title {
+    font-size: xx-large;
+    color: white;
+    margin-top: -75px;
+    margin-left: 25px;
+}
+.home-link {
+color: blue;
+margin-left: 1100px;
+position: relative; top: -60px;
+}
+.about-link {
+color: blue;
+margin-left: 1200px;
+position: relative; top: -106px;
+}
+.portfolio-link {
+color: blue;
+margin-left: 1300px;
+position: relative; top: -154px;
+}
+.index-title {
+    text-decoration: underline;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: -75px;
+}
+.index-info {
+    color: white;
+}
+.padding-test {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
